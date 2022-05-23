@@ -1,0 +1,19 @@
+{
+  "cwd": "C:\\Users\\Usuario\\Documents\\Cimabot",
+  "type": [
+    "web"
+  ],
+  "name": "frontend",
+  "framework": "vue",
+  "template": "single-view",
+  "cssPreProcessor": false,
+  "bundler": "vite",
+  "theming": {
+    "customColor": true,
+    "color": "#4fb052",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
